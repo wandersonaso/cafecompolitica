@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bonés &#8211; Café com Política</title>
+	<atom:link href="https://wandersonaso.github.io/cafecompolitica/categoria-produto/bones/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Thu, 10 Mar 2022 20:12:39 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/NEW-LOGO-01-2-1.jpg</url>
+	<title>Bonés &#8211; Café com Política</title>
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Boné</title>
+		<link>https://wandersonaso.github.io/cafecompolitica/produto/bone/</link>
+					<comments>https://wandersonaso.github.io/cafecompolitica/produto/bone/#respond</comments>
+		
+		<dc:creator><![CDATA[wandersonaso]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2022 14:14:20 +0000</pubDate>
+				<guid isPermaLink="false">https://wandersonaso.github.io/cafecompolitica/?post_type=product&#038;p=410</guid>
+
+					<description><![CDATA[Boné com o logotipo do café com política.]]></description>
+										<content:encoded><![CDATA[<p><img class="alignnone wp-image-411" src="https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/bone_go_bike_original_logo_cinza_139_1_8f22f9e801904524c0db8ff99814ab8c.jpg" alt="" width="220" height="220" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wandersonaso.github.io/cafecompolitica/produto/bone/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

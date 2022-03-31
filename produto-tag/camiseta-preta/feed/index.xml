@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>camiseta preta &#8211; Café com Política</title>
+	<atom:link href="https://wandersonaso.github.io/cafecompolitica/produto-tag/camiseta-preta/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Thu, 10 Mar 2022 14:27:07 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/NEW-LOGO-01-2-1.jpg</url>
+	<title>camiseta preta &#8211; Café com Política</title>
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Camiseta</title>
+		<link>https://wandersonaso.github.io/cafecompolitica/produto/camiseta/</link>
+					<comments>https://wandersonaso.github.io/cafecompolitica/produto/camiseta/#respond</comments>
+		
+		<dc:creator><![CDATA[wandersonaso]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2022 14:09:36 +0000</pubDate>
+				<guid isPermaLink="false">https://wandersonaso.github.io/cafecompolitica/?post_type=product&#038;p=408</guid>
+
+					<description><![CDATA[Camiseta preta com o logo do podcast Café com política.]]></description>
+										<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-409" src="https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/T-ShirtAntiviral-02_467ec224-6e88-43a1-a2dd-aa0eb5182854_450x.jpg" alt="" width="236" height="246" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wandersonaso.github.io/cafecompolitica/produto/camiseta/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tecnologia &#8211; Café com Política</title>
+	<atom:link href="https://wandersonaso.github.io/cafecompolitica/category/tecnologia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Sat, 12 Mar 2022 02:17:05 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/NEW-LOGO-01-2-1.jpg</url>
+	<title>Tecnologia &#8211; Café com Política</title>
+	<link>https://wandersonaso.github.io/cafecompolitica</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tablet ou Notebook?</title>
+		<link>https://wandersonaso.github.io/cafecompolitica/2022/03/11/609/</link>
+					<comments>https://wandersonaso.github.io/cafecompolitica/2022/03/11/609/#respond</comments>
+		
+		<dc:creator><![CDATA[wandersonaso]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2022 20:33:21 +0000</pubDate>
+				<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[notebook]]></category>
+		<category><![CDATA[Política Municipal]]></category>
+		<guid isPermaLink="false">https://wandersonaso.github.io/cafecompolitica/?p=609</guid>
+
+					<description><![CDATA[Estamos diante de um notebook capaz de abrir 360º, vamos conhecer?]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image is-style-default"><figure class="alignleft size-full"><img width="400" height="400" src="https://wandersonaso.github.io/cafecompolitica/wp-content/uploads/2022/03/notebook-dell-inspiron-i14-5406-m10s-2-em-1-tela-14-touch-intel-i3-1115g4-16gb-ssd-128gb-windows-10-outlet-2.jpg" alt="" class="wp-image-633"/></figure></div>
+
+
+
+<p>Wreve biografia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Breve biografia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Breve biografia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Breve biografia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://wandersonaso.github.io/cafecompolitica/2022/03/11/609/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
